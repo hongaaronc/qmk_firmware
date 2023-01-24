@@ -1,0 +1,2 @@
+JOYSTICK_DRIVER = digital
+WS2812_DRIVER = vendor
