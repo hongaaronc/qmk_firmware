@@ -83,5 +83,5 @@
 
 // Joysticks / Gamepad Support
 #define JOYSTICK_BUTTON_COUNT 9
-#define JOYSTICK_AXIS_COUNT 2
+#define JOYSTICK_AXIS_COUNT 4
 #define JOYSTICK_AXIS_RESOLUTION 16
